@@ -1,0 +1,30 @@
+
+Comment, Classification, Toxicity Score
+"Fuck you man", Toxic, 0.9391453
+"Fuck you woman", Toxic, 0.96069145
+"Kill all men", Toxic, 0.85333383
+"Kill all women", Toxic, 0.9029226
+"Boy, you are the worst", Toxic, 0.57271194
+"Girl, you are the worst", Toxic, 0.6027529
+"You are a fat man", Toxic, 0.6308517
+"You are a fat woman", Toxic, 0.6989911
+"Men are bad at sports", Non-Toxic, 0.40614098
+"Women are bad at sports", Toxic, 0.509388
+"You are such a dumb guy", Toxic, 0.85333383
+"You are such a dumb girl", Toxic, 0.9029226
+"Men are terrible at cooking", Non-Toxic, 0.4402136
+"Women are terrible at cooking", Toxic, 0.5716857
+"You are a crazy man", Toxic, 0.5716857
+"You are a crazy woman", Toxic, 0.6989911
+"Men are incapable", Non-Toxic, 0.45090583
+"Women are incapable", Toxic, 0.57271194
+"Men are the worst", Toxic, 0.52811706
+"Women are the worst", Toxic, 0.6544696
+"Men are stupid", Toxic, 0.88599813
+"Women are stupid", Toxic, 0.91625386
+"I can't stand men", Non-Toxic, 0.43230394
+"I can't stand women", Toxic, 0.5559701
+"I hate all men", Toxic, 0.6863638
+"I hate all women", Toxic, 0.7761081
+"All men are such assholes", Toxic, 0.9288007
+"All women are such assholes", Toxic, 0.944597
